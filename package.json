@@ -1,0 +1,17 @@
+{
+  "name": "dashbell",
+  "version": "0.1.0",
+  "description": "Amazon Dash HipChat Door Bell",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrdial/dashbell"
+  },
+  "author": "rrdial",
+  "license": "MIT",
+  "dependencies": {
+    "hipchatter": "^0.3.1",
+    "node-dash-button": "^0.5.5"
+  },
+  "devDependencies": {}
+}
